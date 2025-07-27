@@ -25,7 +25,10 @@
 
 ### llama2 with open AI:
 <img width="1881" height="1033" alt="image" src="https://github.com/user-attachments/assets/b37f5ddc-cb49-4d65-8fb3-1c3e7f801897" />
+The 2020 World Series was played at both Globe Life Field in Arlington, Texas and Estadio de Béisbol La Lancha in Mexico City. However, the LA Dodgers were the home team for Games 1 and 2, which were played at Globe Life Field.
 
 ## Part 3
 ### llama2 with LangChain:
 <img width="858" height="929" alt="image" src="https://github.com/user-attachments/assets/652a690d-c6a4-41a6-bec1-1a75c97feb68" />
+User prompt: 'What is the capital of Germany?'
+Model answer: The capital of Germany is Berlin.
