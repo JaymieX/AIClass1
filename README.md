@@ -1,4 +1,4 @@
-# AIClass1 Homework
+# JaymieXu_homeworkAI_1
 
 ## Part 1
 ### Brave search:
